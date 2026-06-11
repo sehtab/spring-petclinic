@@ -42,8 +42,10 @@ See below for more details.
 
 ## Building a Container
 
+
 There is no `Dockerfile` in this project. You can build a container image (if you have a docker daemon) using the Spring Boot build plugin:
 
+## Testing pollscm1
 ## Running the Container Image
 
 ```bash
