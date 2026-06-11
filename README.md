@@ -55,6 +55,7 @@ docker run -p 8080:8080 docker.io/library/spring-petclinic:latest
 ## In case you find a bug/suggested improvement for Spring Petclinic
 
 Our issue tracker is available [here](https://github.com/spring-projects/spring-petclinic/issues).
+## Testing pollscm
 
 ## Database configuration
 
